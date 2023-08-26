@@ -1,6 +1,6 @@
 console.log("happen");
 
-import * as three from "/node_modules/three/build/three.module.js";
+import * as three from "./node_modules/three/build/three.module.js";
 
 
 window.addEventListener('resize', onWindowResize, false);
