@@ -1,5 +1,6 @@
-// import * as three from "/node_modules/three/build/three.module.js";
+console.log("happen");
 
+import * as three from "/node_modules/three/build/three.module.js";
 
 
 // window.addEventListener('resize', onWindowResize, false);
@@ -32,4 +33,3 @@
 //     cube.rotation.x += 0.01;
 // }
 
-console.log("happen");
